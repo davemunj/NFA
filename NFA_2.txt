@@ -1,0 +1,13 @@
+Number of states
+4
+State outcomes
+no no no yes
+Alphabet
+ab
+Null transitions
+2|3 1|2 0|1 
+Transitions
+1 2
+e e
+2 e
+e e
